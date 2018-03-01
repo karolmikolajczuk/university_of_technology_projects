@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519895290 source:c:\users\student\desktop\projekty politechnika\exercise2-2\switch\exercise2-2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

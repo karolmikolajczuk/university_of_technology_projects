@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519894657 source:c:\users\student\desktop\projekty politechnika\exercise2-4\exercise2-4\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
