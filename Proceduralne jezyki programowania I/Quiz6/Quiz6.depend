@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1528358372 source:c:\users\student\desktop\quiz6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
